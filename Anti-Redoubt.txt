@@ -1,16 +1,16 @@
-https://chuckbaldwinlive.com/
-https://tspwiki.com
-https://www.renewamerica.com
-https://www.survivalistboards.com
-https://omegashock.com
-https://www.conservapedia.com
-https://americanredoubtrealestate.com/
-https://amrron.com/
-https://charlescarrollsociety.com
-https://www.thegeneralsredoubt.us/
-https://www.survivalrealty.com
-https://radiofreeredoubt.com/
-https://americanredoubt.com
-https://allthingsliberty.com
-https://redoubtnews.com/
-https://survivalblog.com
+0.0.0.0 https://chuckbaldwinlive.com/
+0.0.0.0 https://tspwiki.com
+0.0.0.0 https://www.renewamerica.com
+0.0.0.0 https://www.survivalistboards.com
+0.0.0.0 https://omegashock.com
+0.0.0.0 https://www.conservapedia.com
+0.0.0.0 https://americanredoubtrealestate.com/
+0.0.0.0 https://amrron.com/
+0.0.0.0 https://charlescarrollsociety.com
+0.0.0.0 https://www.thegeneralsredoubt.us/
+0.0.0.0 https://www.survivalrealty.com
+0.0.0.0 https://radiofreeredoubt.com/
+0.0.0.0 https://americanredoubt.com
+0.0.0.0 https://allthingsliberty.com
+0.0.0.0 https://redoubtnews.com/
+0.0.0.0 https://survivalblog.com
